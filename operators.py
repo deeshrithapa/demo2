@@ -31,5 +31,8 @@ print(num1)
 from array import array
 n1 = array('i', [3,4,5])
 n2 = array('i', [6,7,8])
-n3= n1+ n2 
+n3= n1+ n2
+n4= n2 - n1  
 print(n3)
+print(n4)
+
